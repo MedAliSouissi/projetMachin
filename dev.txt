@@ -2,3 +2,5 @@ Je m'appelle Daly
 Et je suis en formation
 Et je fais des commits
 Et je refais des commits
+Un nouveau commit est en route
+vive Git! 
